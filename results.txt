@@ -1,0 +1,160 @@
+error: -7.16% prediction: 29.19 actual_price: 31.44 function:tanh
+error: -6.96% prediction: 29.25 actual_price: 31.44 function:tanh
+error: -7.22% prediction: 29.17 actual_price: 31.44 function:tanh
+error: -7.35% prediction: 29.13 actual_price: 31.44 function:tanh
+error: -6.96% prediction: 29.25 actual_price: 31.44 function:tanh
+error: -7.19% prediction: 29.18 actual_price: 31.44 function:tanh
+error: -7.34% prediction: 29.13 actual_price: 31.44 function:tanh
+error: -7.33% prediction: 29.13 actual_price: 31.44 function:tanh
+error: -7.15% prediction: 29.19 actual_price: 31.44 function:tanh
+error: -7.37% prediction: 29.12 actual_price: 31.44 function:tanh
+average percent error: -7.20%
+
+error: -6.79% prediction: 29.31 actual_price: 31.44 function:sigmoid
+error: -5.85% prediction: 29.60 actual_price: 31.44 function:sigmoid
+error: -3.76% prediction: 30.26 actual_price: 31.44 function:sigmoid
+error: -5.37% prediction: 29.75 actual_price: 31.44 function:sigmoid
+error: -6.18% prediction: 29.50 actual_price: 31.44 function:sigmoid
+error: -2.91% prediction: 30.52 actual_price: 31.44 function:sigmoid
+error: -5.23% prediction: 29.80 actual_price: 31.44 function:sigmoid
+error: -4.78% prediction: 29.94 actual_price: 31.44 function:sigmoid
+error: -5.49% prediction: 29.71 actual_price: 31.44 function:sigmoid
+error: -5.38% prediction: 29.75 actual_price: 31.44 function:sigmoid
+average percent error: -5.17%
+
+error: -7.65% prediction: 29.03 actual_price: 31.44 function:relu
+error: -7.47% prediction: 29.09 actual_price: 31.44 function:relu
+error: -7.32% prediction: 29.14 actual_price: 31.44 function:relu
+error: -7.57% prediction: 29.06 actual_price: 31.44 function:relu
+error: -7.47% prediction: 29.09 actual_price: 31.44 function:relu
+error: -7.96% prediction: 28.94 actual_price: 31.44 function:relu
+error: -7.51% prediction: 29.08 actual_price: 31.44 function:relu
+error: -7.32% prediction: 29.14 actual_price: 31.44 function:relu
+error: -7.55% prediction: 29.07 actual_price: 31.44 function:relu
+error: -7.30% prediction: 29.15 actual_price: 31.44 function:relu
+average percent error: -7.51%
+
+error: -7.40% prediction: 29.11 actual_price: 31.44 function:leaky_relu
+error: -7.10% prediction: 29.21 actual_price: 31.44 function:leaky_relu
+error: -7.03% prediction: 29.23 actual_price: 31.44 function:leaky_relu
+error: -6.90% prediction: 29.27 actual_price: 31.44 function:leaky_relu
+error: -7.21% prediction: 29.17 actual_price: 31.44 function:leaky_relu
+error: -7.30% prediction: 29.14 actual_price: 31.44 function:leaky_relu
+error: -7.70% prediction: 29.02 actual_price: 31.44 function:leaky_relu
+error: -7.20% prediction: 29.18 actual_price: 31.44 function:leaky_relu
+error: -7.34% prediction: 29.13 actual_price: 31.44 function:leaky_relu
+error: -7.01% prediction: 29.24 actual_price: 31.44 function:leaky_relu
+average percent error: -7.22%
+
+error: -7.17% prediction: 29.19 actual_price: 31.44 function:elu
+error: -6.98% prediction: 29.25 actual_price: 31.44 function:elu
+error: -6.88% prediction: 29.28 actual_price: 31.44 function:elu
+error: -7.15% prediction: 29.19 actual_price: 31.44 function:elu
+error: -6.93% prediction: 29.26 actual_price: 31.44 function:elu
+error: -7.21% prediction: 29.17 actual_price: 31.44 function:elu
+error: -7.18% prediction: 29.18 actual_price: 31.44 function:elu
+error: -7.04% prediction: 29.23 actual_price: 31.44 function:elu
+error: -7.01% prediction: 29.24 actual_price: 31.44 function:elu
+error: -7.24% prediction: 29.17 actual_price: 31.44 function:elu
+average percent error: -7.08%
+
+error: 9.33% prediction: 34.37 actual_price: 31.44 function:softmax
+error: 9.32% prediction: 34.37 actual_price: 31.44 function:softmax
+error: 9.34% prediction: 34.38 actual_price: 31.44 function:softmax
+error: 9.28% prediction: 34.36 actual_price: 31.44 function:softmax
+error: 9.24% prediction: 34.35 actual_price: 31.44 function:softmax
+error: 9.20% prediction: 34.33 actual_price: 31.44 function:softmax
+error: 9.29% prediction: 34.36 actual_price: 31.44 function:softmax
+error: 9.32% prediction: 34.37 actual_price: 31.44 function:softmax
+error: 9.29% prediction: 34.36 actual_price: 31.44 function:softmax
+error: 9.25% prediction: 34.35 actual_price: 31.44 function:softmax
+average percent error: 9.29%
+
+error: -6.92% prediction: 29.26 actual_price: 31.44 function:hard_sigmoid
+error: -4.76% prediction: 29.94 actual_price: 31.44 function:hard_sigmoid
+error: -6.72% prediction: 29.33 actual_price: 31.44 function:hard_sigmoid
+error: -2.37% prediction: 30.69 actual_price: 31.44 function:hard_sigmoid
+error: -5.82% prediction: 29.61 actual_price: 31.44 function:hard_sigmoid
+error: -6.87% prediction: 29.28 actual_price: 31.44 function:hard_sigmoid
+error: -2.66% prediction: 30.60 actual_price: 31.44 function:hard_sigmoid
+error: -5.75% prediction: 29.63 actual_price: 31.44 function:hard_sigmoid
+error: -4.21% prediction: 30.12 actual_price: 31.44 function:hard_sigmoid
+error: -4.36% prediction: 30.07 actual_price: 31.44 function:hard_sigmoid
+average percent error: -5.04%
+
+error: -7.00% prediction: 29.24 actual_price: 31.44 function:linear
+error: -7.22% prediction: 29.17 actual_price: 31.44 function:linear
+error: -7.17% prediction: 29.18 actual_price: 31.44 function:linear
+error: -7.10% prediction: 29.21 actual_price: 31.44 function:linear
+error: -7.17% prediction: 29.19 actual_price: 31.44 function:linear
+error: -7.19% prediction: 29.18 actual_price: 31.44 function:linear
+error: -7.06% prediction: 29.22 actual_price: 31.44 function:linear
+error: -7.21% prediction: 29.17 actual_price: 31.44 function:linear
+error: -7.12% prediction: 29.20 actual_price: 31.44 function:linear
+error: -7.08% prediction: 29.21 actual_price: 31.44 function:linear
+average percent error: -7.13%
+
+error: -7.54% prediction: 29.07 actual_price: 31.44 function:PReLU
+error: -7.35% prediction: 29.13 actual_price: 31.44 function:PReLU
+error: -7.61% prediction: 29.05 actual_price: 31.44 function:PReLU
+error: -7.08% prediction: 29.21 actual_price: 31.44 function:PReLU
+error: -7.36% prediction: 29.13 actual_price: 31.44 function:PReLU
+error: -7.71% prediction: 29.02 actual_price: 31.44 function:PReLU
+error: -7.53% prediction: 29.07 actual_price: 31.44 function:PReLU
+error: -7.55% prediction: 29.07 actual_price: 31.44 function:PReLU
+error: -7.57% prediction: 29.06 actual_price: 31.44 function:PReLU
+error: -7.49% prediction: 29.09 actual_price: 31.44 function:PReLU
+average percent error: -7.48%
+
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+error: 8.72% prediction: 34.18 actual_price: 31.44 function:ThresholdedReLU
+average percent error: 8.72%
+
+error: -6.94% prediction: 29.26 actual_price: 31.44 function:swish
+error: -6.79% prediction: 29.30 actual_price: 31.44 function:swish
+error: -6.81% prediction: 29.30 actual_price: 31.44 function:swish
+error: -6.88% prediction: 29.28 actual_price: 31.44 function:swish
+error: -6.92% prediction: 29.26 actual_price: 31.44 function:swish
+error: -6.93% prediction: 29.26 actual_price: 31.44 function:swish
+error: -6.91% prediction: 29.27 actual_price: 31.44 function:swish
+error: -6.97% prediction: 29.25 actual_price: 31.44 function:swish
+error: -7.01% prediction: 29.24 actual_price: 31.44 function:swish
+error: -7.04% prediction: 29.23 actual_price: 31.44 function:swish
+average percent error: -6.92%
+
+error: 52.08% prediction: 47.81 actual_price: 31.44 function:sigmoid
+error: 7.50% prediction: 33.80 actual_price: 31.44 function:sigmoid
+error: 8.61% prediction: 34.15 actual_price: 31.44 function:sigmoid
+error: 5.40% prediction: 33.14 actual_price: 31.44 function:sigmoid
+error: 50.72% prediction: 47.39 actual_price: 31.44 function:sigmoid
+error: 24.32% prediction: 39.09 actual_price: 31.44 function:sigmoid
+error: 52.42% prediction: 47.92 actual_price: 31.44 function:sigmoid
+error: 55.24% prediction: 48.81 actual_price: 31.44 function:sigmoid
+error: 45.32% prediction: 45.69 actual_price: 31.44 function:sigmoid
+error: 49.85% prediction: 47.11 actual_price: 31.44 function:sigmoid
+average percent error: 35.15%
+
+error: -5.78% prediction: 356.47 actual_price: 378.34 function:sigmoid
+error: -22.17% prediction: 294.48 actual_price: 378.34 function:sigmoid
+error: -17.63% prediction: 311.63 actual_price: 378.34 function:sigmoid
+error: -36.84% prediction: 238.96 actual_price: 378.34 function:sigmoid
+error: -37.29% prediction: 237.27 actual_price: 378.34 function:sigmoid
+error: -0.24% prediction: 377.44 actual_price: 378.34 function:sigmoid
+error: -0.11% prediction: 377.92 actual_price: 378.34 function:sigmoid
+error: 0.29% prediction: 379.45 actual_price: 378.34 function:sigmoid
+error: -1.30% prediction: 373.40 actual_price: 378.34 function:sigmoid
+error: -0.73% prediction: 375.59 actual_price: 378.34 function:sigmoid
+error: -0.01% prediction: 378.31 actual_price: 378.34 function:sigmoid
+error: 0.68% prediction: 380.91 actual_price: 378.34 function:sigmoid
+error: -0.52% prediction: 376.37 actual_price: 378.34 function:sigmoid
+error: 0.60% prediction: 380.60 actual_price: 378.34 function:sigmoid
+error: -2.12% prediction: 370.32 actual_price: 378.34 function:sigmoid
+average percent error: -0.35%
